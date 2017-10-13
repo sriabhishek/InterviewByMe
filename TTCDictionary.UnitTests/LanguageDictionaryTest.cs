@@ -8,6 +8,9 @@ namespace TTCDictionary.UnitTests
     [TestFixture]
     public class LanguageDictionaryTest
     {
+        //this changes has been done by abhishek Srivastava
+        //these changes are very important for the project
+        //we need to check at the end of the work whether it is working fine or not.
         private LanguageDictionary SUT;
 
         private Dictionary<string, string> list;
