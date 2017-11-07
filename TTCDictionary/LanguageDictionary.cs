@@ -11,6 +11,7 @@ namespace TTCDictionary
         {
             this.list = list;
             console.writeline("hello dev branch");
+            Console.writeline("this ocde is for the release678 branch")
         }
 
         public bool Check(string language, string word)
