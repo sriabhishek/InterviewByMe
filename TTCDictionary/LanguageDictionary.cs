@@ -10,6 +10,7 @@ namespace TTCDictionary
         public LanguageDictionary(Dictionary<string, string> list)
         {
             this.list = list;
+            console.writeline("hello dev branch");
         }
 
         public bool Check(string language, string word)
